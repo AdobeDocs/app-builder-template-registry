@@ -18,10 +18,54 @@ module.exports = {
         path: '/'
       },
       {
+        title: 'Guides',
+        path: '/guides/'
+      },
+      {
         title: 'API',
         path: '/api/'
       }
     ],
+    subPages: [
+      {
+        title: 'Get Started',
+        path: '/guides/',
+        pages: [
+          {
+            title: 'Overview',
+            path: '/guides/'
+          },
+          {
+            title: 'Add a template',
+            path: '/guides/add_template'
+          },
+          {
+            title: 'Delete a template',
+            path: '/guides/delete_template'
+          }
+        ]
+      },
+      {
+        title: 'Template Registry API',
+        path: '/guides/template_registry_api/',
+        pages: [
+          {
+            title: 'Overview',
+            path: '/guides/template_registry_api'
+          }
+        ]
+      },
+      {
+        title: 'Template Validation Checks',
+        path: '/guides/template_validation_library/',
+        pages: [
+          {
+            title: 'Overview',
+            path: '/guides/template_validation_library'
+          }
+        ]
+      }
+    ]
   },
   plugins: [`@adobe/gatsby-theme-aio`],
   pathPrefix: process.env.PATH_PREFIX || '/aio-template-registry/'
