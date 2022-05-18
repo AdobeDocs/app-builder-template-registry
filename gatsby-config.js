@@ -34,14 +34,6 @@ module.exports = {
           {
             title: 'Overview',
             path: '/guides/'
-          },
-          {
-            title: 'Add a template',
-            path: '/guides/add_template'
-          },
-          {
-            title: 'Delete a template',
-            path: '/guides/delete_template'
           }
         ]
       },

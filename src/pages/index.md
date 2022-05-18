@@ -20,7 +20,7 @@ The Template Registry enables developers to discover and search for App Builder 
 
 ## Overview
 
-Developers can submit their templates to the Template Registry and get them reviewed and endorsed by Adobe. Template Registry stores public template metadata only. Code packages are published by 3rd-party developers and are hosted on NPM.
+Developers can submit their templates to the Template Registry and get them reviewed and endorsed by Adobe. 
 
 ## Discover 
 
