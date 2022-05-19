@@ -1,6 +1,8 @@
 ---
 title: Guides - App Builder Template Registry Github Repository
 description: This is the guides overview page of App Builder Template Registry Github repository.
+contributors:
+  - https://github.com/amyjzhao
 ---
 # Using Template Registry's Github repository
 

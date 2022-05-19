@@ -1,6 +1,8 @@
 ---
 title: Guides - App Builder Template Registry
 description: This is the guides overview page of App Builder Template Registry
+contributors:
+  - https://github.com/amyjzhao
 ---
 # Get Started
 
