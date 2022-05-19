@@ -28,32 +28,24 @@ module.exports = {
     ],
     subPages: [
       {
-        title: 'Get Started',
+        title: 'Template Registry',
         path: '/guides/',
         pages: [
           {
             title: 'Overview',
             path: '/guides/'
-          }
-        ]
-      },
-      {
-        title: 'Template Registry API',
-        path: '/guides/template_registry_api/',
-        pages: [
+          },
           {
-            title: 'Overview',
-            path: '/guides/template_registry_api'
-          }
-        ]
-      },
-      {
-        title: 'Template Validation Checks',
-        path: '/guides/template_validation_library/',
-        pages: [
+            title: 'Github',
+            path: '/guides/github/'
+          },
           {
-            title: 'Overview',
-            path: '/guides/template_validation_library'
+            title: 'CLI',
+            path: '/guides/cli/'
+          },
+          {
+            title: 'API',
+            path: '/guides/api/'
           }
         ]
       }
