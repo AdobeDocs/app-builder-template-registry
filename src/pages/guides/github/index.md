@@ -46,7 +46,7 @@ Only the original owner that added the template to the registry may update a tem
 1. Navigate to [issues](https://github.com/adobe/aio-template-submission/issues) in the Template Registry submission Github repository.
 2. Click `New issue` to create a new issue.
 3. Select `Get started` for `Template Removal Request`.
-4. Fill in the name of the NPM package that contains the template.Include scope (e.g. @adobe/app-builder-template).
+4. Fill in the name of the NPM package that contains the template. Include scope (e.g. @adobe/app-builder-template).
 5. Use the name of the NPM package as the issue title as well.
 6. Click `Submit new issue`.
 7. If removal is successful, a comment will appear on the issue with the message "The template has been removed from the registry.".

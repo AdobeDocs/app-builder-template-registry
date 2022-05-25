@@ -50,7 +50,7 @@ Run validation checks on App Builder templates for verification and endorsement 
 
 ### API Reference
 
-Try the [Adobe App Builder Template Registry API](api/)   with Swagger UI. Explore, make calls, with full endpoint descriptions.
+Try the [Adobe App Builder Template Registry API](api/) with Swagger UI. Explore, make calls, with full endpoint descriptions.
 
 <DiscoverBlock slots="heading, link, text"/>
 

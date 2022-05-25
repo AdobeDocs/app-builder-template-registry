@@ -12,7 +12,7 @@ A valid Adobe IMS access token is required for `POST` and `DELETE` actions.
 
 ## Authorization
 
-- Admin: is a member of an Adobe IMS organization listed in the `ADMIN_IMS_ORGANIZATIONS` environment varialble
+- Admin: is a member of an Adobe IMS organization listed in the `ADMIN_IMS_ORGANIZATIONS` environment variable
   - All API endpoints are available.
   - Can manage all App Builder templates in Template Registry.
 - Developer: an authenticated Adobe customer
@@ -25,7 +25,7 @@ Use the [Swagger UI](/api/index.md) to see endpoint summaries, available methods
 
 | Description               | Action | Path                              | HTTP status code                       |
 |---------------------------|--------|-----------------------------------|----------------------------------------|
-| Get list of templates     | GET    | /api/v1/templates                 | 200, 400, 500, 503, 504                |
-| Add template              | POST   | /api/v1/templates                 | 200, 400, 401, 403, 409, 500, 503, 504 |
-| Delete tempalate          | DELETE | /api/v1/templates/{template-name} | 200, 400, 401, 403, 404, 500, 503, 504 |
-| Retrieve template by name | GET    | /api/v1/templates/{template-name} | 200, 400, 404, 500, 503, 504           |
+| Get list of templates     | GET    | /apis/v1/templates                 | 200, 400, 500, 503, 504                |
+| Add template              | POST   | /apis/v1/templates                 | 200, 400, 401, 403, 409, 500, 503, 504 |
+| Delete tempalate          | DELETE | /apis/v1/templates/{template-name} | 200, 400, 401, 403, 404, 500, 503, 504 |
+| Retrieve template by name | GET    | /apis/v1/templates/{template-name} | 200, 400, 404, 500, 503, 504           |
