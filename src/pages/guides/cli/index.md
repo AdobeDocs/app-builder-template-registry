@@ -78,6 +78,12 @@ Output YAML
 ---
 Install an Adobe Developer App Builder template.
 
+#### Syntax
+
+```
+aio templates:install <PATH>
+```
+
 #### Arguments
 
 **PATH**
@@ -107,6 +113,16 @@ aio templates:install @scope/npm-package-name@tagOrVersion
 ### aio templates:remove
 ---
 Remove an Adobe Developer App Builder template from the Template Registry
+
+<InlineAlert variant="info" slots="text"/>
+
+Performs this [action](/guides/github/#remove-a-template) in the Template Registry [Github repository](https://github.com/adobe/aio-template-submission)
+
+#### Syntax
+
+```
+aio templates:remove <PACKAGE-NAME>
+```
 
 #### Arguments
 
@@ -144,11 +160,21 @@ list templates that will be uninstalled
 ---
 Submit an Adobe Developer App Builder template
 
+<InlineAlert variant="info" slots="text"/>
+
+Performs this [action](/guides/github/#add-a-template) in the Template Registry [Github repository](https://github.com/adobe/aio-template-submission)
+
+#### Syntax
+
+```
+aio templates:submit <PACKAGE-NAME> <GITHUB-URL>
+```
+
 #### Arguments
 
 **PACKAGE-NAME**  
 
-package name of the template
+package name of the template (include scope)
 
 **GITHUB-URL**    
 
@@ -161,6 +187,12 @@ URL of github repository
 ### aio templates:uninstall
 ---
 Uninstall an Adobe Developer App Builder template
+
+#### Syntax
+
+```
+aio templates:install <PACKAGE-NAME>
+```
 
 #### Arguments
 
