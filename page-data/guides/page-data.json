@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-guides-index-md","path":"/guides/","result":{"pageContext":{"frontmatter":{"title":"Guides - App Builder Template Registry","description":"This is the guides overview page of App Builder Template Registry","contributors":["https://github.com/amyjzhao"]}}},"staticQueryHashes":["915530536"]}
+{
+    "componentChunkName": "component---src-pages-guides-index-md",
+    "path": "/guides/",
+    "result": {"pageContext":{"frontmatter":{"title":"Guides - App Builder Template Registry","description":"This is the guides overview page of App Builder Template Registry","contributors":["https://github.com/amyjzhao"]}}},
+    "staticQueryHashes": ["915530536"]}
