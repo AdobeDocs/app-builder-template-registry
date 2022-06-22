@@ -13,7 +13,9 @@
   },
   "dependencies": {
     "@adobe/gatsby-theme-aio": "^3.24.2",
-    "@parcel/namer-default": "^2.5.0"
+    "gatsby": "^3.6.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "scripts": {
     "start": "export SET NODE_OPTIONS=--openssl-legacy-provider; gatsby build && gatsby serve",
@@ -23,23 +25,5 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
-  },
-  "devDependencies": {
-    "@mdx-js/mdx": "^1.6.22",
-    "@mdx-js/react": "^1.6.22",
-    "@spectrum-css/asset": "^3.0.0",
-    "@spectrum-css/buttongroup": "^3.0.0",
-    "@spectrum-css/quickaction": "^3.0.0",
-    "babel-eslint": "^10.0.0",
-    "eslint": "^8.18.0",
-    "eslint-config-react-app": "^7.0.1",
-    "gatsby": "^3.6.0",
-    "gatsby-plugin-mdx-embed": "^1.0.0",
-    "mdx-embed": "0.0.19",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
-    "ts-node": "^9.1.1",
-    "tsutils": "^3.21.0",
-    "typescript": "^3.7.0-beta"
   }
 }
