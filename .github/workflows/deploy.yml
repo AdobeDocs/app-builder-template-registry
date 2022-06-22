@@ -89,8 +89,6 @@ jobs:
           persist-credentials: false
       - name: NPM Install
         uses: bahmutov/npm-install@v1
-        with:
-          install-command: npm ci --legacy-peer-deps
       - name: Gatsby Cache
         uses: actions/cache@v2
         with:
