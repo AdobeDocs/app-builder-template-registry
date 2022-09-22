@@ -67,32 +67,8 @@ workspaces:
   - Production
   - Development
 apis:
-- code: AnalyticsSDK
-  credentials: OAuth 
+- code: AnalyticsSDK 
 - code: CampaignStandard
 - code: Mesh 
-  endpoints:
-      - my-action: https://some-action.com/action
 runtime: true
-event:
-  consumer:
-    name: registration-name
-    description: registration-description
-    delivery_type: {WEBHOOK, JOURNAL}
-    events_of_interest:
-      - provider_id: provider-id-1
-        event-code: event-code-1
-      - provider_id: provider-id-2
-        event-code: event-code-2     
-  provider:
-    label: provider-name
-    description: provider-description
-    docs-url: provider-docs-url
-    events:
-      - event_code: event-code-1
-        label: event-1-label
-        description: event-1-description
-      - event_code: event-code-2
-        label: event-2-label
-        description: event-2-description
 ```
