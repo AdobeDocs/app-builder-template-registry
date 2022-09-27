@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---src-pages-reference-github-index-md",
-    "path": "/reference/github/",
-    "result": {"pageContext":{"frontmatter":{"title":"Reference - App Builder Template Registry Github Repository","description":"This is the reference overview page of App Builder Template Registry Github repository.","contributors":["https://github.com/amyjzhao"]}}},
-    "staticQueryHashes": ["915530536"]}
+{"componentChunkName":"component---src-pages-reference-github-index-md","path":"/reference/github/","result":{"pageContext":{"frontmatter":{"title":"Reference - App Builder Template Registry Github Repository","description":"This is the reference overview page of App Builder Template Registry Github repository.","contributors":["https://github.com/amyjzhao"]}}},"staticQueryHashes":["915530536"]}

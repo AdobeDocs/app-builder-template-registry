@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---src-pages-reference-cli-index-md",
-    "path": "/reference/cli/",
-    "result": {"pageContext":{"frontmatter":{"title":"Reference - App Builder Template Registry CLI","description":"This is the reference overview page of App Builder Template Registry CLI.","contributors":["https://github.com/amyjzhao"]}}},
-    "staticQueryHashes": ["915530536"]}
+{"componentChunkName":"component---src-pages-reference-cli-index-md","path":"/reference/cli/","result":{"pageContext":{"frontmatter":{"title":"Reference - App Builder Template Registry CLI","description":"This is the reference overview page of App Builder Template Registry CLI.","contributors":["https://github.com/amyjzhao"]}}},"staticQueryHashes":["915530536"]}
