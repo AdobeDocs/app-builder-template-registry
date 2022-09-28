@@ -8,7 +8,7 @@ contributors:
 
 ## Authentication
 
-A valid Adobe IMS access token is required for `POST` and `DELETE` actions. 
+A valid Adobe IMS access token is required for `POST` and `DELETE` actions.
 
 ## Authorization
 
