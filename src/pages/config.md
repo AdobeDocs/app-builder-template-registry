@@ -8,10 +8,10 @@
     - [API](api)
 
 - subPages:
-    - [Reference](reference) 
-        - [Github](reference/github/) 
-        - [CLI](reference/cli/) 
-        - [API](reference/api/) 
-    - [Guides](guides) 
+    - [Reference](reference/index.md) 
+        - [Github](reference/github/index.md) 
+        - [CLI](reference/cli/index.md) 
+        - [API](reference/api/index.md) 
+    - [Guides](guides/index.md) 
         - [Creating an App Builder template](guides/creating-template/index.md) 
-        - [Requirements](guides/requirements) 
+        - [Requirements](guides/requirements/index.md) 
