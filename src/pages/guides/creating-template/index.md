@@ -13,7 +13,7 @@ An Adobe Developer App Builder template is a collection of code and configuratio
 ## Bootstrapping a new App Builder template
 
 1. Install NodeJS 14 or higher.
-2. Run `npm create @adobe/aio-app-template <template_name>` (supplying the desired name of your template where <template_name> is).
+2. Run `npm create @adobe/aio-app-template <template_name>` (supplying the desired name of your template where < template_name > is).
 3. Change directory into the created folder, and edit the files below.
 
 ### install.yml
