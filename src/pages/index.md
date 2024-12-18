@@ -5,7 +5,7 @@ contributors:
   - https://github.com/amyjzhao
 ---
 
-<Hero slots="heading, text"/>
+<HeroSimple slots="heading, text"/>
 
 # App Builder Template Registry
 
