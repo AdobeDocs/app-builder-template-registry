@@ -55,13 +55,13 @@ Interact with Template Registry through Adobe I/O Extensible CLI, whether to sub
 
 List, filter, create, and delete templates via the Template Registry API. 
 
-<DiscoverBlock slots="link, text"/>
+<DiscoverBlock slots="link, text" width="100%"/>
 
 ### API Reference
 
 Try the [Adobe App Builder Template Registry API](api/) with Swagger UI. Explore, make calls, with full endpoint descriptions.
 
-<DiscoverBlock slots="heading, link, text"/>
+<DiscoverBlock slots="heading, link, text" width="100%"/>
 
 
 ## Contributing
