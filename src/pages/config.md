@@ -13,5 +13,5 @@
         - [CLI](/reference/cli/) 
         - [API](/reference/api/) 
     - [Guides](/guides/) 
-        - [Creating an App Builder template](/guides/creating_template) 
+        - [Creating an App Builder template](/guides/creating-template) 
         - [Requirements](/guides/requirements) 
