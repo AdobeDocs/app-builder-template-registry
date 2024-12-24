@@ -12,6 +12,7 @@ More information here: https://github.com/adobe/aio-cli-plugin-app-templates
 
 - An Adobe account is required for the operations (submit, remove) that require an Adobe IMS token. Sign up for one here: https://account.adobe.com
 - Install the Adobe I/O CLI tool:
+
 ```
 $ npm install -g @adobe/aio-cli
 $ aio -v
@@ -36,12 +37,13 @@ $ aio -v
 | `--verbose` | `-v` | Show verbose output. |
 
 ### aio templates
----
+
 View available plugin commands.
 
 ### aio templates:discover
----
+
 Discover App Builder templates via the Template Registry to install.
+
 #### Options
 
 **-f, --sort-field [publishDate&#124;names&#124;adobeRecommended]**  
@@ -61,7 +63,7 @@ Sort order for a column. Use the `sort-field` option to specify which column to 
 `aio templates:disco`
 
 ### aio templates:info
----
+
 List all App Builder templates that are currently installed.
 
 #### Options:
@@ -75,7 +77,7 @@ Output raw JSON
 Output YAML
 
 ### aio templates:install
----
+
 Install an Adobe Developer App Builder template.
 
 #### Syntax
@@ -95,6 +97,7 @@ path to the template (npm package name, file path, url). See examples.
 `aio templates:i`
 
 #### Examples
+
 ```
 aio templates:install https://github.com/org/repo
 aio templates:install git+https://github.com/org/repo
@@ -111,7 +114,7 @@ aio templates:install @scope/npm-package-name@tagOrVersion
 ```
 
 ### aio templates:remove
----
+
 Remove an Adobe Developer App Builder template from the Template Registry
 
 <InlineAlert variant="info" slots="text"/>
@@ -135,7 +138,7 @@ Package name of the template
 `aio templates:r`
 
 ### aio templates:rollback
----
+
 Clear all installed templates.
 
 #### Options
@@ -157,7 +160,7 @@ list templates that will be uninstalled
 `aio templates:rollb`
 
 ### aio templates:submit
----
+
 Submit an Adobe Developer App Builder template
 
 <InlineAlert variant="info" slots="text"/>
@@ -185,7 +188,7 @@ URL of github repository
 `aio templates:s`
 
 ### aio templates:uninstall
----
+
 Uninstall an Adobe Developer App Builder template
 
 #### Syntax
