@@ -45,7 +45,7 @@ When your template is installed, it will run the Yeoman generator at src/index.j
   - **skip-install** (boolean). If set to true, then yeoman will skip installing dependencies in package.json after the generator is run.
 - When your generator is run, it will be run with the current working directory as the root of the project it is installed in (you can access this as **this.destinationPath()** in the generator class).
 - See [here](https://github.com/adobe/generator-add-web-assets-exc-react/blob/93bf59d9207cb5a9417d8fbd4fc81082afad7502/index.js#L33) for how to write files and add dependencies to package.json.
-- Make sure you understand the Yeoman Run Context for the different method priorities: https://yeoman.io/authoring/running-context.html
+- Make sure you understand the Yeoman Run Context for the different method priorities: [https://yeoman.io/authoring/running-context.html](https://yeoman.io/authoring/running-context.html)
 - See [here](https://github.com/adobe/generator-add-web-assets-exc-react/blob/main/test/index.test.js) for writing unit tests for your generator
 
 ## Testing Your Template

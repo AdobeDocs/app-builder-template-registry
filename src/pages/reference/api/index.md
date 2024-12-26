@@ -27,8 +27,8 @@ Use the [Swagger UI](/api/index.md) to see endpoint summaries, available methods
 
 | Environment | URL |
 |---------|----------|
-| Prod | https://360030-templateregistryapi.adobeioruntime.net |
-| Stage | https://360030-templateregistryapi-stage.adobeioruntime.net |
+| Prod | [https://360030-templateregistryapi.adobeioruntime.net](https://360030-templateregistryapi.adobeioruntime.net) |
+| Stage | [https://360030-templateregistryapi-stage.adobeioruntime.net](https://360030-templateregistryapi-stage.adobeioruntime.net) |
 
 #### Endpoints
 
