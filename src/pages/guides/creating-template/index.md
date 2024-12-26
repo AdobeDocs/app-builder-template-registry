@@ -59,6 +59,6 @@ If you'd like to submit the template to Template Registry, publish the module to
 
 ## Sample Templates
 
-- https://github.com/adobe/generator-add-action-generic (action generator)
-- https://github.com/adobe/generator-app-excshell (Experience Cloud Shell extension)
-- https://github.com/adobe/generator-app-asset-compute (Asset Compute extension)
+- [https://github.com/adobe/generator-add-action-generic](https://github.com/adobe/generator-add-action-generic) (action generator)
+- [https://github.com/adobe/generator-app-excshell](https://github.com/adobe/generator-app-excshell) (Experience Cloud Shell extension)
+- [https://github.com/adobe/generator-app-asset-compute](https://github.com/adobe/generator-app-asset-compute) (Asset Compute extension)
