@@ -2,10 +2,10 @@
     - /app-builder-template-registry/
 
 - pages:
-    - [Adobe App Builder Template Registry](/)
-    - [Guides](guides)
-    - [Reference](reference)
-    - [API](api)
+    - [Adobe App Builder Template Registry](index.md)
+    - [Guides](guides/index.md)
+    - [Reference](reference/index.md)
+    - [API](api/index.md)
 
 - subPages:
     - [Reference](reference/index.md) 
