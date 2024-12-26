@@ -6,11 +6,11 @@ contributors:
 ---
 # Adobe I/O CLI
 
-More information here: https://github.com/adobe/aio-cli-plugin-app-templates
+More information here: [https://github.com/adobe/aio-cli-plugin-app-templates](https://github.com/adobe/aio-cli-plugin-app-templates)
 
 ## Installation
 
-- An Adobe account is required for the operations (submit, remove) that require an Adobe IMS token. Sign up for one here: https://account.adobe.com
+- An Adobe account is required for the operations (submit, remove) that require an Adobe IMS token. Sign up for one here: [https://account.adobe.com](https://account.adobe.com)
 - Install the Adobe I/O CLI tool:
 
 ```
@@ -38,9 +38,13 @@ $ aio -v
 
 ### aio templates
 
+<hr/>
+
 View available plugin commands.
 
 ### aio templates:discover
+
+<hr/>
 
 Discover App Builder templates via the Template Registry to install.
 
@@ -64,6 +68,8 @@ Sort order for a column. Use the `sort-field` option to specify which column to 
 
 ### aio templates:info
 
+<hr/>
+
 List all App Builder templates that are currently installed.
 
 #### Options:
@@ -77,6 +83,8 @@ Output raw JSON
 Output YAML
 
 ### aio templates:install
+
+<hr/>
 
 Install an Adobe Developer App Builder template.
 
@@ -115,6 +123,8 @@ aio templates:install @scope/npm-package-name@tagOrVersion
 
 ### aio templates:remove
 
+<hr/>
+
 Remove an Adobe Developer App Builder template from the Template Registry
 
 <InlineAlert variant="info" slots="text"/>
@@ -139,6 +149,8 @@ Package name of the template
 
 ### aio templates:rollback
 
+<hr/>
+
 Clear all installed templates.
 
 #### Options
@@ -160,6 +172,8 @@ list templates that will be uninstalled
 `aio templates:rollb`
 
 ### aio templates:submit
+
+<hr/>
 
 Submit an Adobe Developer App Builder template
 
@@ -188,6 +202,8 @@ URL of github repository
 `aio templates:s`
 
 ### aio templates:uninstall
+
+<hr/>
 
 Uninstall an Adobe Developer App Builder template
 
