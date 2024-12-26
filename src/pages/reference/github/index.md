@@ -41,7 +41,7 @@ After passing automatic checks, templates by third-party developers will initial
 
 <InlineAlert variant="info" slots="text"/>
 
-Only the original owner that added the template to the registry may update a template. If not the original owner, contact the Developer Experience team at devx-services@adobe.com to update a template.
+Only the original owner that added the template to the registry may update a template. If not the original owner, contact the Developer Experience team at [devx-services@adobe.com](devx-services@adobe.com) to update a template.
 
 <InlineAlert variant="info" slots="text"/>
 
@@ -61,4 +61,4 @@ Templates by third-party developers will need to be re-approved manually by an A
 
 <InlineAlert variant="info" slots="text"/>
 
-Only the original owner that added the template to the registry may remove a template. If not the original owner, contact the Developer Experience team at devx-services@adobe.com to remove a template.
+Only the original owner that added the template to the registry may remove a template. If not the original owner, contact the Developer Experience team at [devx-services@adobe.com](devx-services@adobe.com) to remove a template.
