@@ -11,7 +11,7 @@ contributors:
 
 The Template Registry enables developers to discover and search for App Builder templates in one place that simplify the creation of App Builder applications.
 
-<LinkBlock slots="heading, links"/>
+<Link-Block slots="heading, links"/>
 
 #### Resources
 
