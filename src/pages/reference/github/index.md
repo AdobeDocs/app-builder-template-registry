@@ -6,7 +6,7 @@ contributors:
 ---
 # Using Template Registry's Github repository
 
-[Add](reference/#add-a-template), [update](reference/#update-a-template), and [remove](reference/#remove-a-template) templates from Template Registry through its Github repository, which can be found here: [https://github.com/adobe/aio-template-submission](https://github.com/adobe/aio-template-submission).
+[Add](../../reference/index.md#add-a-template), [update](../../reference/index.md#update-a-template), and [remove](../../reference/index.md#remove-a-template) templates from Template Registry through its Github repository, which can be found here: [https://github.com/adobe/aio-template-submission](https://github.com/adobe/aio-template-submission).
 
 ## Add a template
 
@@ -20,7 +20,7 @@ contributors:
 6. Use name of the NPM package as the title of the issue as well.
 7. Click `Submit new issue`.
 8. If template has passed the verification process and been successfully added to the registry, a comment will appear on the issue with the message "Congratulations! Your template has been verified and added to App Builder Template Registry.".
-9. If template fails the verification process (outlined [here](/reference)), a comment detailing the failed checks will appear.
+9. If template fails the verification process (outlined [here](../../reference/index.md)), a comment detailing the failed checks will appear.
 10. After the mentioned issues are addressed, the verification process can be triggered again by commenting `/check` on the issue. 
 
 <InlineAlert variant="info" slots="text"/>
