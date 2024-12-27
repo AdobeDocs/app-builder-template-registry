@@ -8,13 +8,13 @@ contributors:
 
 ## Contributing to Template Registry
 
-- Follow this [guide](guides/creating_template/) to create an App Builder template.
-- Make sure the template meets these [requirements](guides/requirements/) because it will have to pass automated checks in order to be included in the Template Registry.
-- You can submit a template to Template Registry for review by using either its [Github repository](/reference/github/index.md), the [Adobe I/O CLI](/reference/cli/index.md), or the Template Registry [API](/reference/api/index.md). 
+- Follow this [guide](../guides/creating-template/index.md) to create an App Builder template.
+- Make sure the template meets these [requirements](../guides/requirements/index.md) because it will have to pass automated checks in order to be included in the Template Registry.
+- You can submit a template to Template Registry for review by using either its [Github repository](../reference/github/index.md), the [Adobe I/O CLI](/reference/cli/index.md), or the Template Registry [API](../reference/api/index.md). 
 
 ## Using App Builder templates
 
-Looking to get started on a new App Builder project and need a skeleton? Use Template Registry via [Adobe I/O CLI](/reference/cli/) to
+Looking to get started on a new App Builder project and need a skeleton? Use Template Registry via [Adobe I/O CLI](../reference/cli/index.md) to
 1. [**discover**](../reference/cli/index.md#aio-templatesdiscover) different templates for various use cases
 2. [**install**](../reference/cli/index.md#aio-templatesinstal) a suitable template for your purposes
 3. [**check**](../reference/cli/index.md#aio-templatesinfo) what templates are currently installed
