@@ -18,7 +18,7 @@ An Adobe Developer App Builder template is a collection of code and configuratio
 
 ### install.yml
 
-See the specification for a valid **install.yml** file [here](requirements/#installyml).
+See the specification for a valid **install.yml** file [here](../requirements/index.md#installyml).
 
 Set the following keys to the desired values. When a template is installed, these keys will be parsed to set up the App Builder project. 
 
