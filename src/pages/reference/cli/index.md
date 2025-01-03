@@ -13,7 +13,7 @@ More information here: [https://github.com/adobe/aio-cli-plugin-app-templates](h
 - An Adobe account is required for the operations (submit, remove) that require an Adobe IMS token. Sign up for one here: [https://account.adobe.com](https://account.adobe.com)
 - Install the Adobe I/O CLI tool:
 
-```
+```bash
 $ npm install -g @adobe/aio-cli
 $ aio -v
 @adobe/aio-cli/8.3.0 darwin-arm64 node-v18.3.0
@@ -90,7 +90,7 @@ Install an Adobe Developer App Builder template.
 
 #### Syntax
 
-```
+```bash
 aio templates:install <PATH>
 ```
 
@@ -106,7 +106,7 @@ path to the template (npm package name, file path, url). See examples.
 
 #### Examples
 
-```
+```bash
 aio templates:install https://github.com/org/repo
 aio templates:install git+https://github.com/org/repo
 aio templates:install ssh://github.com/org/repo
@@ -133,7 +133,7 @@ Performs this [action](../../reference/github/index.md#remove-a-template) in the
 
 #### Syntax
 
-```
+```bash
 aio templates:remove <PACKAGE-NAME>
 ```
 
@@ -183,7 +183,7 @@ Performs this [action](../../reference/github/index.md#add-a-template) in the Te
 
 #### Syntax
 
-```
+```bash
 aio templates:submit <PACKAGE-NAME> <GITHUB-URL>
 ```
 
@@ -209,7 +209,7 @@ Uninstall an Adobe Developer App Builder template
 
 #### Syntax
 
-```
+```bash
 aio templates:install <PACKAGE-NAME>
 ```
 
