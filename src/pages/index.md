@@ -31,7 +31,7 @@ Developers can submit their templates to the Template Registry and get them revi
 
 ### Get Started
 
-[Quickstart Guide](guides/)
+[Quickstart Guide](guides/index.md)
 
 Get started with Template Registry.
 
@@ -39,13 +39,13 @@ Get started with Template Registry.
 
 ### Reference
 
-[Github](reference/github/)
+[Github](reference/github/index.md)
 
 Template developers can submit, update, or remove App Builder templates from Template Registry by creating issues in the Template Registry Github repository. 
 
 <DiscoverBlock slots="link, text"/>
 
-[CLI](reference/cli/)
+[CLI](reference/cli/index.md)
 
 Interact with Template Registry through Adobe I/O Extensible CLI, whether to submit one as a template developer or install one in your own App Builder application.
 
@@ -59,7 +59,7 @@ List, filter, create, and delete templates via the Template Registry API.
 
 ### API Reference
 
-Try the [Adobe App Builder Template Registry API](api/) with Swagger UI. Explore, make calls, with full endpoint descriptions.
+Try the [Adobe App Builder Template Registry API](api/index.md) with Swagger UI. Explore, make calls, with full endpoint descriptions.
 
 <DiscoverBlock slots="heading, link, text" width="100%"/>
 
