@@ -129,7 +129,7 @@ Remove an Adobe Developer App Builder template from the Template Registry
 
 <InlineAlert variant="info" slots="text"/>
 
-Performs this [action](../../reference/github/index.md#remove-a-template) in the Template Registry [Github repository](https://github.com/adobe/aio-template-submission)
+Performs this [action](../github/index.md#remove-a-template) in the Template Registry [Github repository](https://github.com/adobe/aio-template-submission)
 
 #### Syntax
 
@@ -179,7 +179,7 @@ Submit an Adobe Developer App Builder template
 
 <InlineAlert variant="info" slots="text"/>
 
-Performs this [action](../../reference/github/index.md#add-a-template) in the Template Registry [Github repository](https://github.com/adobe/aio-template-submission)
+Performs this [action](../github/index.md#add-a-template) in the Template Registry [Github repository](https://github.com/adobe/aio-template-submission)
 
 #### Syntax
 

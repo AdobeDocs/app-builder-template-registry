@@ -8,8 +8,8 @@ contributors:
 
 ## Contributing to Template Registry
 
-- Follow this [guide](../guides/creating-template/index.md) to create an App Builder template.
-- Make sure the template meets these [requirements](../guides/requirements/index.md) because it will have to pass automated checks in order to be included in the Template Registry.
+- Follow this [guide](creating-template/index.md) to create an App Builder template.
+- Make sure the template meets these [requirements](requirements/index.md) because it will have to pass automated checks in order to be included in the Template Registry.
 - You can submit a template to Template Registry for review by using either its [Github repository](../reference/github/index.md), the [Adobe I/O CLI](/reference/cli/index.md), or the Template Registry [API](../reference/api/index.md). 
 
 ## Using App Builder templates

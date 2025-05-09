@@ -21,7 +21,7 @@ A valid Adobe IMS access token is required for `POST` and `DELETE` actions.
 
 ## Summary of Endpoints
 
-Use the [Swagger UI](../api/index.md) to see endpoint summaries, available methods, parameters, example values, models, and status codes, and to try out the API.
+Use the [Swagger UI](index.md) to see endpoint summaries, available methods, parameters, example values, models, and status codes, and to try out the API.
 
 #### Base URL
 
