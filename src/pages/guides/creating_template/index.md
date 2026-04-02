@@ -53,9 +53,12 @@ When your template is installed, it will run the Yeoman generator at src/index.j
 - Run `npm test` to run unit tests located in the **test** folder. The unit tests use Jest.
 - Run `npm run e2e` to run the template generator itself. This will create a sub-folder called **temp-template-test**, and the generator will be run within it. 
 
-## What next?
+## Submitting Your Template
 
-If you'd like to submit the template to Template Registry, publish the module to NPM. Then, submit it for review via any of the methods in Contributing to Template Registry.
+If you'd like to submit the template to Template Registry, publish the module to NPM. Then, submit it for review via the CLI: 
+```bash
+aio templates submit @my-org/my-template https://github.com/my-org/my-template
+```
 
 ## Sample Templates
 
